@@ -11,7 +11,7 @@ Dataset link: https://www.kaggle.com/jessicali9530/celeba-dataset
 
 GoogleColab/SourceCode link: https://colab.research.google.com/drive/1csLtkv64jyxBAOcZ3LOPN3_EUwh1eJv2#scrollTo=UIZIakAcF9ll
 
-Getting access to Colab notebook and the dataset: https://drive.google.com/drive/folders/13dP-GafbdySROcLUS7qAaXukrPi0JcG-?fbclid=IwAR3BcBrabtCkvUsAwMQAW09c4LaX3-t-iVTUviybvnPt3cZtNK_WAhCX4AE 
+Customized dataset download access: https://drive.google.com/drive/folders/13dP-GafbdySROcLUS7qAaXukrPi0JcG-?fbclid=IwAR3BcBrabtCkvUsAwMQAW09c4LaX3-t-iVTUviybvnPt3cZtNK_WAhCX4AE 
 
 Group members: Kristian Stavad, Rasmus Simmelsgaard Hye, Lasse Hede
 
