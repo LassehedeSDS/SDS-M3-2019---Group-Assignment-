@@ -12,4 +12,5 @@ Dataset link: https://www.kaggle.com/jessicali9530/celeba-dataset
 GoogleColab/SourceCode link: https://colab.research.google.com/drive/1csLtkv64jyxBAOcZ3LOPN3_EUwh1eJv2#scrollTo=UIZIakAcF9ll
 
 Group members: Kristian Stavad, Rasmus Simmelsgaard Hye, Lasse Hede
+
 Aalborg University, Social Data Science, 9th semester, 2019
